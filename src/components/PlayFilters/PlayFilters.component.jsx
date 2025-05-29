@@ -1,0 +1,35 @@
+import React from "react";
+import { Disclosure } from "@headlessui/react";
+import { BiChevronDown, BiChevronUp } from "react-icons/bi";
+
+const PlayFilters = (props) => {
+  return (
+    <Disclosure>
+      {({ open }) => (
+        <>
+          <Disclosure.Button className="py-2 flex items-center gap-4">
+            <span className={open ? "text-red-600" : "text-gray-700"}>
+              {props.title}
+            </span>
+            {open ? <BiChevronUp /> : <BiChevronDown />}
+          </Disclosure.Button>
+
+          <Disclosure.Panel className="px-4 pt-4 pb-2  text-gray-500">
+            <div className="flex items-center gap-3 flex-wrap">
+              {props.tags.map((tag, index) => (
+                <div
+                  key={index}
+                  className="border-2 border-gray-500 px-3 py-1 rounded"
+                >
+                  <span className="text-red-400 px-2 ">{tag}</span>
+                </div>
+              ))}
+            </div>
+          </Disclosure.Panel>
+        </>
+      )}
+    </Disclosure>
+  );
+};
+
+export default PlayFilters;
