@@ -18,7 +18,9 @@ react-context-api (State-Managemnt in React) /redux => heavy projects
 axios 
 
 
-pages:
-Home.Page.jsx
-Movie.Page.jsx
-Play.Page.jsx
+pages: < br / >
+Home.Page.jsx < br / >
+Movie.Page.jsx < br / >
+Play.Page.jsx < br / >
+
+
