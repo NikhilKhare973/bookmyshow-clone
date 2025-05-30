@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![App Screenshot](/screenshot/Movie.png)
 
-# Sign In Page:
+# Cats Page:
 
 ![App Screenshot](/screenshot/cast.png)
 
