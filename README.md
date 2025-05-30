@@ -11,8 +11,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## ScreenShots
 
 # Home Page:
-![App Screenshot](/screenshot/Screenshot 2025-05-29 212847.png)
+![App Screenshot](screenshot/home.page.png)
 
+# Movie Page:
+
+![App Screenshot](/screenshot/Movie.png)
+
+# Sign In Page:
+
+![App Screenshot](/screenshot/cast.png)
 
 # @Book My show clone
 
