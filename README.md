@@ -21,6 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![App Screenshot](/screenshot/cast.png)
 
+![App Screenshot](/screenshot/footer.png)
+
 # @Book My show clone
 
 react, 
