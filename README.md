@@ -35,8 +35,13 @@ axios
 
 ## Key Features
 
+### Movies search bar
+
+-Adding Movies search bar.
+
 ### Home Page
 
+- Adding Movies search bar.
 - Dynamic landing page showcasing upcoming movies, events, and trending shows.
 - Featured banners highlighting special promotions and offers.
 
