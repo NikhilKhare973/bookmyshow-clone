@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App]([https://github.com/facebook/create-react-app](https://bookmyshow-clone-omega.vercel.app/)).
+-Adding Movies search bar.
+-Adding Movie Recommendation 
+-Add to Movie buy and rent
+
 
 
 ### `npm start`
