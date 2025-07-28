@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Home Page:
 ![App Screenshot](screenshot/home.page.png)
-![App Screenshot](screenshot/Screenshot 2.png)
+![App Screenshot](screenshot/Screenshot2.png)
 
 # Movie Page:
 
